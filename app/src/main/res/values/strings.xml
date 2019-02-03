@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StepViewApp</string>
+
+    <string-array name="stepLabels">
+        <item>Approval</item>
+        <item>Processed</item>
+        <item>Shipped</item>
+        <item>Delivery</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="done">You\'re done!</string>
+</resources>
